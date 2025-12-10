@@ -1,0 +1,5 @@
+{
+  "name": "CyberDiplomat Universe",
+  "description": "A self-play digital universe simulation where you interact with a Diplomat AI via chat, generate insights with Gemini 3 Pro, and create artifacts using Veo and Imagen.",
+  "requestFramePermissions": []
+}
